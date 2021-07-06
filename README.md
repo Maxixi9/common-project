@@ -24,7 +24,7 @@ yarn build
 
 ## Maintainer
 
-https://github.com/panzid
+https://github.com
 
 ## License
 1.0.0
